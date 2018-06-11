@@ -4,27 +4,27 @@
 个人博客
 
 #### 软件架构
- 参考于zjucx 的博客项目, https://github.com/zjucx/myblog, 也是自己学习go与vue的一个项目
+
 
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1.  
+2.  
+3.  
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1.  
+2.  
+3.  
 
 #### 参与贡献
 
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+1.  
+2.  
+3.  
+4.  
 
 
-  
+ 本项目参考于zjucx 的博客项目, https://github.com/zjucx/myblog, 也是自己学习go与vue的一个项目
